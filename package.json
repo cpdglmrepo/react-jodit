@@ -16,7 +16,7 @@
 		"rte"
 	],
 	"dependencies": {
-		"jodit": "git+ssh://git@github.com:cpdglmrepo/jodit.git"
+		"jodit": "https://github.com/cpdglmrepo/jodit.git#TS7dev"
 	},
 	"peerDependencies": {
 		"react": "~0.14 || ^15.0.0 || ^16.0.0",
